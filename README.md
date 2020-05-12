@@ -8,7 +8,7 @@
 ### Advanced Phishing Tool for Instagram, with Four different templates built according to your needs. ###
 
 ## Features:
-- Port Forwarding using Ngrok
+- Port Forwarding with Ngrok
 - Live Attack 
 - IP Grabber
 - Location Capture
@@ -27,7 +27,6 @@
 - PHP
 - Curl
 - OpenSSh
-- Wget
 
 ## Usage:
 ```
