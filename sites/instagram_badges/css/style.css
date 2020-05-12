@@ -1,0 +1,136 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.btn {
+    font-weight: 600;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.BOGO {
+    max-width: 46.67%;
+}
+
+h3, h4, h5 {
+    font-weight: 400;
+}
+
+h3 strong, h4 strong, h5 strong {
+    font-weight: 500;
+}
+
+.f400 {
+    font-weight: 400 !important;
+}
+
+.ig-badge {
+    height: 36px;
+}
+
+.ig-badge-small {
+    display: none;
+    height: 27px;
+}
+
+p strong {
+    font-weight: 500 !important;
+}
+
+p, li {
+    font-weight: 300;
+    font-size: 1.05rem;
+}
+
+.ig-r, .s322, .s188, .ir-5, .s777, .s997, .s911 {
+    display: none;
+}
+
+.eee {
+    display: none;
+    font-size: 1.15rem;
+}
+
+gl {
+    color: green;
+    font-weight: 500;
+}
+
+rl {
+    color: red;
+    font-weight: 500;
+}
+
+.ig-r {
+    font-size: 1.2rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.left {
+    text-align: left !important;
+}
+
+li strong {
+    font-weight: 500;
+}
+
+input {
+    text-align: center !important;
+}
+
+.flick-error {
+    border: 2px solid red;
+}
+
+.HAHA {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+.FFF {
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 0.25rem;
+}
+
+.flick {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    &::-webkit-scrollbar {
+        display: none;
+    }
+}
+
+.bio {
+    font-size: 0.85rem;
+    font-weight: 400 !important;
+}
+
+.ig-post {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    display: inline-block;
+    width: 33.333%;
+    padding-bottom: 33.333%;
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ig-avatar {
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 1337rem;
+}
