@@ -15,7 +15,9 @@
 
 
 ## Screenshot
+   <p align="center"
    ![Gramphish](https://user-images.githubusercontent.com/64679660/81673692-a93c4e00-9469-11ea-8267-782e5d0edb23.png)
+   </p>
 
 ## Legal Disclaimer:
 
