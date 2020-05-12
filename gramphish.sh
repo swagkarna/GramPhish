@@ -84,7 +84,7 @@ printf "\e[1;77m  (_______)                   (_____ \ | |    (_)      | |     \
 printf "\e[1;77m   _   ___  ____ _____ ____    _____) )| | _   _   ___ | | _   \e[0m\n"
 printf "\e[1;77m  | | (_  |/ ___|____ |    \  |  ____/ | || \ | | /___)| || \  \e[0m\n"
 printf "\e[1;77m  | |___) | |   / ___ | | | | | |      | | | || ||___ || | | | \e[0m\n"
-printf "\e[1;77m   \_____/|_|   \_____|_|_|_|_|_|      |_| |_||_|(___/ |_| |_| v1.2\e[0m\n"
+printf "\e[1;77m   \_____/|_|   \_____|_|_|_|_|_|      |_| |_||_|(___/ |_| |_| \e[0m\n"
 printf "\n"
 printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool made by:  @Horcrux007 \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
@@ -105,7 +105,7 @@ printf "\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m]\e[0m\e[1;92m Password:\e[0m\e[1;77
 cat sites/$server/usernames.txt >> sites/$server/saved.usernames.txt
 printf "\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Saved:\e[0m\e[1;77m sites/%s/saved.usernames.txt\e[0m\n" $server
 printf "\n"
-printf "\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] Waiting Next IP and Next Credentials, Press Ctrl + C to exit...\e[0m\n"
+printf "\e[1;93m[\e[0m\e[1;77m*\e[0m\e[1;93m] Waiting Next IP and Credentials, Press Ctrl + C to exit...\e[0m\n"
 
 }
 
