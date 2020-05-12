@@ -16,7 +16,7 @@
 
 ## Screenshot:
    <p align="left">
-   <img width="800" height="450" src="https://user-images.githubusercontent.com/64679660/81673692-a93c4e00-9469-11ea-8267-782e5d0edb23.png"
+   <img src="https://user-images.githubusercontent.com/64679660/81673692-a93c4e00-9469-11ea-8267-782e5d0edb23.png"
    </p>
 
 ## Legal Disclaimer:
