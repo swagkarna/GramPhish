@@ -47,5 +47,5 @@ bash gramphish.sh
 This project is licensed under the terms of the **GNU** license.
 
 ## Credits:
-- **Inspired From** :<a href="https://github.com/thelinuxchoice/shellphish">ShellPhish</a>
-- **Instagram Webpage Created By** :<a href=https://github.com/An0nUD4Y>@its_udy</a>
+- **Inspired From :** <a href="https://github.com/thelinuxchoice/shellphish">ShellPhish</a>
+- **Instagram Webpage Created By :** <a href=https://github.com/An0nUD4Y>@its_udy</a>
