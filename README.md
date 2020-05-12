@@ -30,6 +30,8 @@
 - PHP
 - Curl
 - OpenSSh
+- wget
+- unzip
 
 ## Usage:
 ```
@@ -45,5 +47,5 @@ bash gramphish.sh
 This project is licensed under the terms of the **GNU** license.
 
 ## Credits:
-- Thank You @linuxchoice for your wonderful repo: ShellPhish.
-- Thank You @its_udy for your Instagram Pages.
+- **Inspired From**:<a href="https://github.com/thelinuxchoice/shellphish">ShellPhish</a>
+- **Instagram Webpages Created By**:<a href=https://github.com/An0nUD4Y>@its_udy</a>
