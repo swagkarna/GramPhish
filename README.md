@@ -30,8 +30,7 @@
 - PHP
 - Curl
 - OpenSSh
-- wget
-- unzip
+- Wget
 
 ## Usage:
 ```
