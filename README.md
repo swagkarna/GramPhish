@@ -13,7 +13,7 @@
 
 ## Screenshot:
    <p align="left">
-   <img src="https://user-images.githubusercontent.com/64679660/81673692-a93c4e00-9469-11ea-8267-782e5d0edb23.png"
+   <img src="https://user-images.githubusercontent.com/64679660/82025974-b34f8e00-96af-11ea-9d57-ca84cbd23686.png">
    </p>
 
 ## Buy Me A Coffee
