@@ -41,7 +41,7 @@ bash gramphish.sh
 
 ### License: ###
 
->You can check out the full license [here](https://github.com/Horcrux007/GramPhish/blob/master/LICENSE)
+>You can check out the full license [here](https://github.com/Whit3H4tJr/GramPhish/blob/master/LICENSE)
 
 This project is licensed under the terms of the **GNU** license.
 
