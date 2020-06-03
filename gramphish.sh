@@ -86,7 +86,7 @@ printf "\e[1;77m  | | (_  |/ ___|____ |    \  |  ____/ | || \ | | /___)| || \  \
 printf "\e[1;77m  | |___) | |   / ___ | | | | | |      | | | || ||___ || | | | \e[0m\n"
 printf "\e[1;77m   \_____/|_|   \_____|_|_|_|_|_|      |_| |_||_|(___/ |_| |_| \e[0m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool made by: @Whit3H4tJr \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool made by: @Rav3ncIaw \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
 printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by GramPhish  ::\e[0m\n"
