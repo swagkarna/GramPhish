@@ -1,7 +1,7 @@
 # GramPhish 
 
 ### Advanced Phishing Tool For Instagram, With Custom Templates Built According To Your Needs. ###
-### Author:[Rav3nclaw]
+### Author:[Whit3H4tJr]
 ### Don't copy this code without giving me the credits :) 
  
 
@@ -13,7 +13,7 @@
 
 ## Screenshot:
    <p align="left">
-   <img src="https://user-images.githubusercontent.com/64679660/82025974-b34f8e00-96af-11ea-9d57-ca84cbd23686.png">
+   <img src="(https://user-images.githubusercontent.com/64679660/84623866-d7e09500-aefd-11ea-9e6a-82369380eb05.png)">
    </p>
 
 ## Buy Me A Coffee
@@ -34,7 +34,7 @@
 
 ## Usage:
 ```
-git clone https://github.com/Rav3ncIaw/GramPhish
+git clone https://github.com/Whit3H4tJr/GramPhish
 cd GramPhish
 bash gramphish.sh
 ```
